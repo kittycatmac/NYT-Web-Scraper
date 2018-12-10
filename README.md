@@ -1,7 +1,7 @@
 # NYT-Web-Scraper
 
 This full stack application uses Mongoose/Cheerio/Axios to grab info from the New York Times. Notes from the use are saved with articles with MongoDB as the database. The style is that big city nightime life.
-(/public/assets/img/web-scrap.img)
+![website-header](/public/assets/img/web-scrap.img)
 
 # Getting started
 
