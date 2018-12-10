@@ -13,4 +13,10 @@ npm inti for JSON package, express, express-handlebars, mongoose, cheerio, axios
 # Built-With
 
 * [MongoDB](https://www.mongodb.com/): database
-* 
+* [Bootstrap](https://getbootstrap.com/): front-end
+* [Mongoose](https://mongoosejs.com/docs/api.html): back-end
+* [Cheerio](https://github.com/cheeriojs/cheerio): back-end
+
+# Author
+
+Catherine McMillen
