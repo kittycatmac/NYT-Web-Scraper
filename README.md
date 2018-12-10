@@ -12,5 +12,5 @@ npm inti for JSON package, express, express-handlebars, mongoose, cheerio, axios
 
 # Built-With
 
-* https://www.mongodb.com/ - automatic!
-[GitHub](https://www.mongodb.com/)
+* [MongoDB](https://www.mongodb.com/): database
+* 
